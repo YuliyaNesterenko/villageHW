@@ -1,0 +1,6 @@
+FirstName: Werner, LastName: Kub, Race: Vampire
+FirstName: Marcelina, LastName: Casper, Race: Peasant
+FirstName: Cordell, LastName: Osinski, Race: Werewolf
+FirstName: Casie, LastName: Herman, Race: Vampire
+FirstName: Marth, LastName: Batz, Race: Vampire
+FirstName: Oralia, LastName: Stanton, Race: Peasant
